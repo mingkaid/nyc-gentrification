@@ -12,4 +12,6 @@
 
 - Based on the insights, we made our predictions for NYC's next hotspots for gentrification. 
 
+**Outcome:** Best Insight Award in Columbia DataFest 2018
+
 ![alt text](https://github.com/mingkaid/nyc-gentrification/blob/master/outputs/area-cluster-plot.png?raw=true "Neighborhood Cluster Plot")
