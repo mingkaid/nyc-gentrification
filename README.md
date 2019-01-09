@@ -15,3 +15,5 @@
 **Outcome:** Best Insight Award in Columbia DataFest 2018, as judged by professors from Columbia's IEOR Department and Center for Urban Real Estate, NYU's Schack Institute of Real Estate, and data scientists from CapitalOne. 
 
 ![alt text](https://github.com/mingkaid/nyc-gentrification/blob/master/outputs/area-cluster-plot.png?raw=true "Neighborhood Cluster Plot")
+
+**Disclaimer:** The contents of this repository is intended for informational purposes only and does not constitute investment advice, a recommendation, an offer or solicitation.
