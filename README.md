@@ -12,4 +12,4 @@
 
 - Based on the insights, we made our predictions for NYC's next hotspots for gentrification. 
 
-![alt text](https://github.com/mingkaid/nyc-gentrification/blob/upload-image/outputs/area-cluster-plot.png?raw=true "Neighborhood Cluster Plot")
+![alt text](https://github.com/mingkaid/nyc-gentrification/blob/master/outputs/area-cluster-plot.png?raw=true "Neighborhood Cluster Plot")
